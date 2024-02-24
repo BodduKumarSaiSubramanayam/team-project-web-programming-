@@ -1,0 +1,12 @@
+Respected sir,
+
+I am excited to inform you that my team and I are embarking on a
+journey to create a mini-project for our web programming course at VIT Vellore. 
+Utilizing our skills in HTML, JavaScript, CSS, and React.js, we aim to develop an innovative and impactful web application. 
+With determination and dedication, we look forward to showcasing our learning and creativity through this project.
+
+Best regards,
+B.Sai kumar
+Saaketh Meda
+Hruthik 
+Abhinav
